@@ -8,10 +8,10 @@ const App = () => {
   return (
     <main className='relative'>
       <Navbar />
-      <section className='xl:padding-l wide:padding-r padding-b'>
+      <section className='bg-heroPage bg-center bg-cover'>
         <Hero />
       </section>
-      <section className=' bg-black padding-x padding-t pb-8'>
+      <section className=' '>
         <Footer />
       </section>
     </main>
