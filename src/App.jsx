@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import {
   Footer,
   Hero,
+  About,
 } from "./sections";
 
 const App = () => {
@@ -11,7 +12,10 @@ const App = () => {
       <section className='bg-heroPage bg-center bg-cover'>
         <Hero />
       </section>
-      <section className=' '>
+      <section className='py-14 max-container'>
+        <About />
+      </section>
+      <section className=''>
         <Footer />
       </section>
     </main>

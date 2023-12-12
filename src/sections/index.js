@@ -1,6 +1,6 @@
 import Hero from "./Hero";
 import Footer from "./Footer";
-// import Services from "./Services";
+import About from "./About";
 // import Pricing from "./Pricing";
 // import Gallery from "./Gallery";
 // import Appointment from "./Appointment";
@@ -9,7 +9,7 @@ import Footer from "./Footer";
 export {
     Hero,
     Footer,
-    // Services,
+    About,
     // Pricing,
     // Gallery,
     // Appointment,
