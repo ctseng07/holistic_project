@@ -27,7 +27,7 @@
   scroll-behavior: smooth;
   font-family: "bodani";
   font-family: "proxima";
-  /* border: 1px solid red; */
+  border: 1px solid red;
 }
 
 @layer components {
