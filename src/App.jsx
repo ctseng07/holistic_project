@@ -4,6 +4,7 @@ import {
   Hero,
   About,
   Virtual,
+  Shop,
 } from "./sections";
 
 const App = () => {
@@ -18,6 +19,9 @@ const App = () => {
       </section>
       <section className='py-14 max-container'>
         <Virtual />
+      </section>
+      <section className='bg-bg-pink'>
+        <Shop />
       </section>
       <section className=''>
         <Footer />

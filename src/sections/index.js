@@ -2,7 +2,7 @@ import Hero from "./Hero";
 import Footer from "./Footer";
 import About from "./About";
 import Virtual from "./Virtual";
-// import Gallery from "./Gallery";
+import Shop from "./Shop";
 // import Appointment from "./Appointment";
 // import Contact from "./Contact";
 
@@ -11,7 +11,7 @@ export {
     Footer,
     About,
     Virtual,
-    // Gallery,
+    Shop,
     // Appointment,
     // Contact,
 }
