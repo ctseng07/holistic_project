@@ -3,7 +3,7 @@ import Footer from "./Footer";
 import About from "./About";
 import Virtual from "./Virtual";
 import Shop from "./Shop";
-// import Appointment from "./Appointment";
+import Blog from "./Blog";
 // import Contact from "./Contact";
 
 export {
@@ -12,6 +12,6 @@ export {
     About,
     Virtual,
     Shop,
-    // Appointment,
+    Blog,
     // Contact,
 }

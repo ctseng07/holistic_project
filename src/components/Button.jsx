@@ -1,10 +1,9 @@
 const Button = ({ label, iconURL, backgroundColor, textColor, borderColor, fullWidth }) => {
     return (
-        <button className={`flex justify-center items-center 
-        gap-2 px-10 py-3.5 border text-transform: uppercase text-xs leading-none hover:bg-black font-semibold
+        <button className={`flex justify-center items-center gap-2 px-4 py-2.5 text-transform: uppercase text-xs leading-none hover:bg-black font-bodani
                 ${backgroundColor 
-                ? `${backgroundColor} ${textColor} ${borderColor}`
-                : 'bg-pink text-white border-gray'
+                ? `${backgroundColor} ${textColor}`
+                : 'bg-pink text-white'
                 } rounded ${fullWidth && 'w-full'}"}`}
                 >
             {label}
