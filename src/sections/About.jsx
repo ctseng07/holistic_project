@@ -16,7 +16,7 @@ const About = () => {
                 <div className="flex flex-col text-center gap-10">
                     <h2 className="text-4xl">Meet Katey</h2>
 
-                    <p className="text-2xl italic leading-loose ">"I want to compassionately empower women to heal and understand their skin so they can feel extra confident and glowy, stepping out of the shadows - into the light.</p>
+                    <p className="text-xl font-bodani italic leading-loose ">"I want to compassionately empower women to heal and understand their skin so they can feel extra confident and glowy, stepping out of the shadows - into the light.</p>
                 </div>
             </div>
 

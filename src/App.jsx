@@ -3,7 +3,8 @@ import {
   Footer,
   Hero,
   About,
-  Virtual,
+  VirtualSkin,
+  VirtualWorkshop,
   Shop,
   Blog,
 } from "./sections";
@@ -19,7 +20,7 @@ const App = () => {
         <About />
       </section>
       <section className='py-14 max-container'>
-        <Virtual />
+        <VirtualSkin />
       </section>
       <section className='bg-bg-pink'>
         <Shop />
@@ -28,7 +29,7 @@ const App = () => {
         <Blog />
       </section>
       <section className='py-14 max-container'>
-        <Virtual />
+        <VirtualWorkshop />
       </section>
       <section className=''>
         <Footer />
