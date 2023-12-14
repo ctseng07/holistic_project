@@ -6,6 +6,7 @@ import {
   VirtualSkin,
   VirtualWorkshop,
   Shop,
+  Book,
   Blog,
 } from "./sections";
 
@@ -30,6 +31,9 @@ const App = () => {
       </section>
       <section className='py-14 max-container'>
         <VirtualWorkshop />
+      </section>
+      <section className='bg-bg-pink'>
+        <Book />
       </section>
       <section className=''>
         <Footer />
