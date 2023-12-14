@@ -5,6 +5,7 @@ import VirtualWorkshopPic  from './VirtualWorkshopPic.jpg';
 import VirtualSkinPic  from './VirtualSkinPic.jpg';
 import ShopPic  from './ShopPic.jpg';
 import banner from './banner.jpg';
+import BookPic from './BookPic.jpg';
 
 import Blog1 from './Blog-1.png';
 import Blog2 from './Blog-2.png';
@@ -18,6 +19,7 @@ export  {
    VirtualSkinPic,
    ShopPic,
    banner,
+   BookPic,
 
    Blog1,
    Blog2,
